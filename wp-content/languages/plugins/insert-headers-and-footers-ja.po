@@ -1,0 +1,115 @@
+# Translation of Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-06 04:00:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release)\n"
+
+#: includes/admin/class-wpcode-review.php:129
+#: includes/admin/class-wpcode-review.php:140
+msgid "Give Feedback"
+msgstr "ご意見をお寄せください"
+
+#: includes/admin/class-wpcode-review.php:122
+msgid "Not Really"
+msgstr "そうでもありません"
+
+#: includes/admin/class-wpcode-review.php:117
+msgid "Are you enjoying WPCode?"
+msgstr "WPCode をお楽しみいただいていますか ?"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-edd.php:51
+msgid "Success Page"
+msgstr "成功ページ"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-edd.php:46
+#: includes/lite/conditional-logic/class-wpcode-conditional-woocommerce.php:46
+msgid "Checkout Page"
+msgstr "お支払いページ"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-edd.php:61
+msgid "Download Category Page"
+msgstr "カテゴリーページをダウンロード"
+
+#: includes/lite/conditional-logic/class-wpcode-conditional-edd.php:56
+msgid "Single Download Page"
+msgstr "個別ダウンロードページ"
+
+#: includes/class-wpcode-snippet-execute.php:104
+msgid "CSS Snippet"
+msgstr "CSS スニペット"
+
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:74
+msgid "Search snippets"
+msgstr "スニペットを検索"
+
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:68
+msgid "Select snippets"
+msgstr "スニペットを選択"
+
+#: includes/lite/admin/class-wpcode-metabox-snippets-lite.php:80
+msgid "Load more snippets"
+msgstr "スニペットをさらに読み込む"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1410
+msgid "Shortcode name"
+msgstr "ショートコード名"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1407
+msgid "Custom Shortcode"
+msgstr "カスタムショートコード"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:924
+msgid "Save to Library"
+msgstr "ライブラリに保存"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1326
+msgid "Upgrade to PRO"
+msgstr "プロ版にアップグレード"
+
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:1324
+msgid "Save to Library is a Pro Feature"
+msgstr "ライブラリへの保存はプロ版機能"
+
+#. translators: $1$s - WPCode plugin name; $2$s - WP.org review link; $3$s -
+#. WP.org review link.
+#: includes/admin/class-wpcode-review.php:192
+msgid "Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> to help us spread the word. Thank you from the WPCode team!"
+msgstr "%1$s を <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> で <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> 評価して、このプロダクトを広めるのをお手伝いください。WPCode チームより、心から感謝いたします。"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:117
+#: includes/admin/pages/class-wpcode-admin-page-snippet-manager.php:137
+msgid "Sorry, you only have read-only access to this page. Ask your administrator for assistance editing."
+msgstr "ページの閲覧のみ許可されています。編集するには、サイト管理者にお問い合わせください。"
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:143
+msgid "These scripts will be printed in the %s section."
+msgstr "これらのスクリプトは %s セクション内に出力されます。"
+
+#. translators: %s: The `</body>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:153
+msgid "These scripts will be printed above the closing %s tag."
+msgstr "これらのスクリプトは %s 閉じタグの直前に出力されます。"
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:148
+msgid "These scripts will be printed just below the opening %s tag."
+msgstr "これらのスクリプトは %s 開始タグの直後に出力されます。"
+
+#: includes/admin/class-wpcode-admin-page-loader.php:193
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:38
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:180
+msgid "Settings"
+msgstr "設定"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:282
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:224
+msgid "Settings Saved."
+msgstr "設定を保存しました。"

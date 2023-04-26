@@ -1,0 +1,349 @@
+# Translation of Plugins - Astra Widgets - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Astra Widgets - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-09 13:33:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Astra Widgets - Stable (latest release)\n"
+
+#. translators:%s module name .
+#: classes/widgets/class-astra-widget-list-icons.php:349
+#: classes/widgets/class-astra-widget-social-profiles.php:479
+msgid "click here."
+msgstr "ここをクリック。"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "%s 製品に、機密性のない使用状況追跡データの追跡を許可します。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr "これはネットワーク上のすべてのサイトに適用されます。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "いいえ、結構です"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "はい、許可します"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr "さらに詳しく読む。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "これはネットワーク上のすべてのサイトに適用されます。"
+
+#: lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "WordPress Nonce が検証されていません。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "さらに詳しく。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "使用状況の追跡"
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "<strong>%1s</strong> をさらに素晴らしいものにするお手伝いをしていただけませんか ? 非機密の診断データと使用状況に関する情報を収集することを許可してください。"
+
+#: classes/widgets/class-astra-widget-list-icons.php:390
+msgid "Style:"
+msgstr "スタイル:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:380
+msgid "Show Divider:"
+msgstr "区切り:"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:549
+msgid "Background Hover Color"
+msgstr "背景マウスオーバー色"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:543
+msgid "Icon Hover Color"
+msgstr "アイコンのマウスオーバー色"
+
+#: classes/widgets/class-astra-widget-list-icons.php:402
+msgid " Weight:"
+msgstr "太さ:"
+
+#. Description of the plugin
+msgid "The Fastest Way to Add More Widgets into Your WordPress Website."
+msgstr "WordPress サイトにさらにウィジェットを追加する最速の方法。"
+
+#: classes/widgets/class-astra-widget-list-icons.php:409
+msgid "Color:"
+msgstr "色:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:431
+msgid "Image / Icon Size:"
+msgstr "画像/アイコンサイズ:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:414
+msgid "Icon / Image Style"
+msgstr "アイコン/画像スタイル"
+
+#: classes/widgets/class-astra-widget-list-icons.php:396
+msgid "Dashed"
+msgstr "破線"
+
+#: classes/widgets/class-astra-widget-list-icons.php:395
+msgid "Double"
+msgstr "ダブル"
+
+#: classes/widgets/class-astra-widget-list-icons.php:384
+msgid "No"
+msgstr "いいえ"
+
+#: classes/widgets/class-astra-widget-list-icons.php:383
+msgid "Yes"
+msgstr "はい"
+
+#: classes/widgets/class-astra-widget-list-icons.php:375
+msgid "Divider"
+msgstr "区切り"
+
+#: classes/widgets/class-astra-widget-list-icons.php:362
+msgid "\tSpace Between List Items:"
+msgstr "リスト項目間のスペース:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:295
+msgid "List Item:"
+msgstr "リスト項目:"
+
+#: classes/class-astra-widgets-helper.php:528
+msgid "Add Item"
+msgstr "項目を追加"
+
+#: classes/widgets/class-astra-widget-address.php:301
+#: classes/widgets/class-astra-widget-list-icons.php:369
+#: classes/widgets/class-astra-widget-social-profiles.php:562
+msgid "Space Between Icon & Text:"
+msgstr "アイコンとテキストの間隔:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:394
+msgid "Dotted"
+msgstr "点線"
+
+#: classes/widgets/class-astra-widget-list-icons.php:393
+msgid "Solid"
+msgstr "単色"
+
+#: classes/widgets/class-astra-widget-list-icons.php:357
+msgid "Spacing"
+msgstr "間隔"
+
+#: classes/widgets/class-astra-widget-address.php:308
+msgid "\tSpace Between Address Fields:"
+msgstr "住所欄の間のスペース:"
+
+#: classes/widgets/class-astra-widget-address.php:283
+msgid "FAX:"
+msgstr "FAX:"
+
+#: classes/widgets/class-astra-widget-address.php:277
+msgid "Phone:"
+msgstr "電話:"
+
+#: classes/widgets/class-astra-widget-address.php:271
+msgid "Address:"
+msgstr "住所:"
+
+#: classes/widgets/class-astra-widget-address.php:63
+msgid "Display Address."
+msgstr "アドレスを表示."
+
+#: classes/widgets/class-astra-widget-address.php:60
+msgid "Astra: Address"
+msgstr "Astra: アドレス"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:555
+msgid "Icon Width:"
+msgstr "アイコン幅:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:425
+#: classes/widgets/class-astra-widget-social-profiles.php:537
+msgid "Background Color"
+msgstr "背景色"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:525
+msgid "Custom"
+msgstr "カスタム"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:515
+msgid "Square Outline"
+msgstr "四角アウトライン"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:514
+msgid "Circle Outline"
+msgstr "円アウトライン"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:512
+msgid "Circle"
+msgstr "円"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:511
+msgid "Simple"
+msgstr "シンプル"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:508
+msgid "Icon Style"
+msgstr "アイコンスタイル"
+
+#: classes/widgets/class-astra-widget-address.php:259
+#: classes/widgets/class-astra-widget-social-profiles.php:502
+msgid "Stack"
+msgstr "重ね"
+
+#: classes/widgets/class-astra-widget-address.php:258
+#: classes/widgets/class-astra-widget-social-profiles.php:501
+msgid "Inline"
+msgstr "インライン"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:487
+msgid "Styling"
+msgstr "スタイリング"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:444
+msgid "Link"
+msgstr "リンク"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:433
+msgid "Add Profile"
+msgstr "プロフィールを追加"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:428
+msgid "Social Profiles"
+msgstr "ソーシャルプロフィール"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:420
+#: classes/widgets/class-astra-widget-social-profiles.php:438
+msgid "Title"
+msgstr "タイトル"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:70
+msgid "Astra: Social Profiles"
+msgstr "Astra: ソーシャルプロフィール"
+
+#: classes/widgets/class-astra-widget-list-icons.php:331
+#: classes/widgets/class-astra-widget-social-profiles.php:470
+msgid "Icon"
+msgstr "アイコン"
+
+#: classes/widgets/class-astra-widget-list-icons.php:330
+msgid "Image"
+msgstr "画像"
+
+#: classes/widgets/class-astra-widget-list-icons.php:327
+msgid "Image / Icon"
+msgstr "画像 / アイコン"
+
+#: classes/widgets/class-astra-widget-list-icons.php:317
+#: classes/widgets/class-astra-widget-social-profiles.php:460
+msgid "No Follow"
+msgstr "No Follow"
+
+#: classes/widgets/class-astra-widget-list-icons.php:310
+#: classes/widgets/class-astra-widget-social-profiles.php:453
+msgid "Same Page"
+msgstr "同ページ"
+
+#: classes/widgets/class-astra-widget-list-icons.php:301
+msgid "Link:"
+msgstr "リンク:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:290
+msgid "Add Item:"
+msgstr "項目の追加"
+
+#: classes/widgets/class-astra-widget-list-icons.php:70
+msgid "Astra: List Icons"
+msgstr "Astra: リストアイコン"
+
+#: classes/class-astra-widgets-helper.php:481
+msgid "Choose Icon.."
+msgstr "アイコンを選択"
+
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. Plugin URI of the plugin
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Plugin Name of the plugin
+msgid "Astra Widgets"
+msgstr "Astra ウィジェット"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:498
+msgid "Alignment"
+msgstr "配置"
+
+#: classes/widgets/class-astra-widget-list-icons.php:321
+#: classes/widgets/class-astra-widget-social-profiles.php:464
+msgid "Disable"
+msgstr "無効化"
+
+#: classes/widgets/class-astra-widget-address.php:289
+msgid "Email:"
+msgstr "メール:"
+
+#: classes/widgets/class-astra-widget-list-icons.php:320
+#: classes/widgets/class-astra-widget-social-profiles.php:463
+msgid "Enable"
+msgstr "有効化"
+
+#: classes/widgets/class-astra-widget-address.php:295
+#: classes/widgets/class-astra-widget-list-icons.php:419
+#: classes/widgets/class-astra-widget-social-profiles.php:521
+#: classes/widgets/class-astra-widget-social-profiles.php:531
+msgid "Icon Color"
+msgstr "アイコンの色"
+
+#: classes/widgets/class-astra-widget-list-icons.php:311
+#: classes/widgets/class-astra-widget-social-profiles.php:454
+msgid "New Page"
+msgstr "新規固定ページ"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:513
+msgid "Square"
+msgstr "正方形"
+
+#: classes/widgets/class-astra-widget-address.php:249
+#: classes/widgets/class-astra-widget-list-icons.php:284
+msgid "Title:"
+msgstr "タイトル:"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:73
+msgid "Display social profiles."
+msgstr "ソーシャルプロフィールを表示する。"
+
+#: classes/widgets/class-astra-widget-list-icons.php:73
+msgid "Display list icons."
+msgstr "リストアイコンを表示する。"
+
+#: classes/widgets/class-astra-widget-address.php:265
+msgid "Display Icons?"
+msgstr "アイコンを表示しますか ?"
+
+#: classes/widgets/class-astra-widget-social-profiles.php:524
+msgid "Official Color"
+msgstr "公式カラー"

@@ -1,0 +1,2 @@
+[06-Mar-2023 01:15:26 UTC] PHP Fatal error:  Cannot redeclare j8() (previously declared in /home/jccib/public_html/wp-content/uploads/2012/04/brugzidq.php:2) in /home/jccib/public_html/wp-content/uploads/2012/04/brugzidq.php on line 2
+[15-Mar-2023 16:05:42 UTC] PHP Fatal error:  Cannot redeclare j8() (previously declared in /home/jccib/public_html/wp-content/uploads/2012/04/brugzidq.php:2) in /home/jccib/public_html/wp-content/uploads/2012/04/brugzidq.php on line 2

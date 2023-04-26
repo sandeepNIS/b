@@ -1,0 +1,140 @@
+table.tablepress {
+	display: table;
+	border-collapse: separate;
+	border-spacing: 1px;
+	border-color: gray;
+}
+
+table.tablepress {
+	background-color: #CDCDCD;
+	margin: 10px 0 15px 0;
+	padding: 0;
+	font-size: 12px;
+	width: /*text-align: left;*/
+100%;
+}
+
+/* Styles for the tablehead (<th>) (if enabled) */
+table.tablepress tr th,
+table.tablepress tfoot tr th {
+	background-color: /* #e6EEEE*/
+#F93;
+	font-size: 8pt; /*padding: 4px;*/
+	padding: 8px;
+}
+
+table.tablepress thead tr .header {
+	background-image: url(/wp-content/plugins/wp-table-reloaded/img/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+
+table.tablepress tbody td {
+	color: #3D3D3D;
+	padding: 10px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+
+/* Styles for alternating row colors (if enabled) */
+table.tablepress tbody tr.even td {
+	background-color: #FFFFFF;
+}
+
+table.tablepress tbody tr.odd td {
+	background-color: #FFFFF4;
+}
+
+/**************************************/
+/* how to change column widths :
+you can access a column with its CSS-class
+(that is ".column-" plus the number of the column)
+use table.tablepress to do your change for every table, or use
+table.tablepress-id-<id> for just a single table (with ID <id>)
+
+example: this changes the width of the third column of table ID 5 to 25px:*/
+table.tablepress-id-1 .column-1 {
+	width: 15%;
+}
+
+table.tablepress-id-1.column-2 {
+	width: 15%;
+}
+
+table.tablepress-id-1 .column-3 {
+	width: 70%;
+}
+
+table.tablepress-id-3 .column-1 {
+	text-align: center;
+	width: 5%;
+}
+
+table.tablepress-id-3.column-2 {
+	width: 20%;
+}
+
+table.tablepress-id-3 .column-3 {
+	width: 30%;
+}
+
+table.tablepress-id-3 .column-4 {
+	width: 40%;
+}
+
+table.tablepress-id-6 .column-1 {
+	width: 5%;
+}
+
+table.tablepress-id-6 .column-2 {
+	width: 15%;
+}
+
+table.tablepress-id-6 .column-3 {
+	width: 13%;
+}
+
+table.tablepress-id-6 .column-4 {
+	width: 13%;
+}
+
+table.tablepress-id-6 .column-5 {
+	width: 13%;
+}
+
+table.tablepress-id-6 .column-6 {
+	width: 13%;
+}
+
+table.tablepress-id-6 .column-7 {
+	width: 13%;
+}
+
+table.tablepress-id-6 .column-8 {
+	width: 13%;
+}
+
+/* Styles for the sorting (if Tablesorter is enabled) */
+table.tablepress thead tr .headerSortUp {
+	background-image: url(/wp-content/plugins/wp-table-reloaded/img/asc.gif);
+}
+
+table.tablepress thead tr .headerSortDown {
+	background-image: url(/wp-content/plugins/wp-table-reloaded/img/desc.gif);
+}
+
+table.tablepress thead tr .headerSortDown,
+table.tablepress thead tr .headerSortUp {
+	background-color: #8dbdd8;
+}
+
+/* Style for the Table Name (in <h2>-Tag) (if printed above the table) */
+h2.tablepress-table-name {
+	font-size: 16px;
+}
+
+/* Style for the Table Description (if printed under the table) */
+span.tablepress-table-description {
+	font-size: 10px;
+}
